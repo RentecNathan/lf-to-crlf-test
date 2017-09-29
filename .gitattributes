@@ -1,0 +1,4 @@
+# standardize on LF for PHP files
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
